@@ -1,93 +1,27 @@
-## Hi there 👋,
+# 💫 About Me:
+I'm currently learning<br>Looking for a job either as trainee or junior
 
-### I'm André Gustavo, a passionate developer with a diverse skill set and an interest in practical applications.
--------
-  
-## 🧐 Overview
-  
-- 🚀 I have created 7 public repositories and made 41 total commits, showcasing my moderate level of activity.
-- 🔧 My skill set includes Java, Python, HTML, CSS, and Rust, with a focus on practical applications like "manga-notifier-telegram."
-- 💻 I typically use Java, Python, HTML, CSS, and Rust for my projects, indicating a diverse coding background.
-  
-### 🌟 GitHub Statistics:
-  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AndreXP1)
-  
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreXP1)
-  
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AndreXP1)](https://github.com/AndreXP1)
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=#AndreXP André1)](https Gustavo (@Andre://XP1git)
 
-![.io/streak-statsGitHub Stats](https)
-://  
-### 🔧 Skills:
-github-readme-stats.ver- Javacel.app
-- Python
-/api?username- HTML/CSS=AndreXP
--1)
-![Top Rust
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/www.instagram.com/andre_gustavo_sn/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/andré-gustavo-netto) 
 
-### 🔗 Langs](https Connect with Me:
-://github- LinkedIn-read: [me-stats.verAndrécel.app Gust/apiavo/top](https-l://wwwangs/?username.linkedin.com/in/=AndreXP1andr%C)
-[3%A![tro9-gphy](https://ustgithub-profileav-pingrhk-t-40rophy.vercelb940.app1/?aausername=AndreXP1)](https/://github)
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AndreXP1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AndreXP1&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreXP1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-.com/AndreXP1)
-[![GitHub Streak](https://streak-stats.d### 🚀em Myolab.com/? Best Projects:
-user- [ProjetoSaper - Contribution](https://github=.com/KaykAndreXP1Caputo/ProjetoS)](aperhttps://)
-git.io-/streak [Telecom_C-statshatbot -)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AndreXP1&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-## 🚀 Contribution About](https:// Me
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Hey there!github.com I'm/K André GustaykCapavouto/, a softwareTelecom developer_C passionatehatbot)
-- [ about coding and creating practical applications. With a diverse skill set that includes Java, Python, HTML, and CSS, I aim to keep evolvingHTML and Website learning Project new things]( each dayhttps://.
-
-##github.com 🛠️/AndreXP1 Skills
-
-- Java/html-
-website-project- Python)
-
-###
-- HTML
-- CSS
-- Rust
-
-## 🔥 💬 About Me:
-
-I'm André Gustavo Projects,
-
-Check a developer out some of my most-starred with a passion for exploring different programming languages. repositories:
-
-- My GitHub profile reflects my commitment to [ProjetoSaper by KaykCaputo consistent coding habits](https://github and project contributions.com/Kay. I have a keenkCaputo/Projeto interest in creating practicalSaper)
-- [ applicationsTelecom and my repositories cover a diverse range of languages_Chatbot by KaykCap likeuto Java,](https Python, HTML,://github.com/KaykCaputo/Telecom_C and CSS.
-
-Feel freehat tobot)
-- explore my projects and reach out if [manga-notifier you have any-telegram](#) _(Contact me for questions or collaboration opportunities. more I look details forward to growing and learning!)_
-
-## 🌟 GitHub Engagement more
-
- within the GitHub- **Total Repositories:** 7
-- community!
-
-🌱 Keep ** codingTotal and stay curious Comm!its:** 41
-- **Followers:** 5
-- **Starred Repositories:** 4
-
-## 📡 Contact Me
-
-Feel free to reach out to me:
-
-- LinkedIn: [Andre Gustavo](#)
-- Email: andrexp1@example.com
-
-## 🌐 Profile Overview
-
-Throughout my GitHub journey, I've actively contributed to open-source projects and engaged with the vibrant coding community. My GitHub presence reflects my dedication to coding and continuous learning.
-
-## 🚀 Looking Forward
-
-As I continue my coding journey, I strive to enhance my skills, collaborate with fellow developers, and create impactful projects. Let's connect and explore exciting opportunities together!
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AndreXP1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AndreXP1&icon=6&color=1)](https://visitcount.itsvg.in)
 
-Keep coding, keep creating, and embrace the endless possibilities in the world of software development! 🌟
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
