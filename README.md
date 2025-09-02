@@ -15,6 +15,10 @@ I'm currently learning<br>Looking for a job either as trainee or junior
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AndreXP1&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
+## 🎮 Play Capetalismo!
+Play Capetalismo, a game currently being developed by [Andre](https://github.com/AndreXP1) and [Kayk](https://github.com/KaykCaputo).  
+[![Play Capetalismo on itch.io](https://img.shields.io/badge/Play%20Capetalismo-on%20itch.io-ff5f6d?logo=itch.io&style=for-the-badge)](https://xx-caputokayk-xx.itch.io/capetalismo)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -22,6 +26,5 @@ I'm currently learning<br>Looking for a job either as trainee or junior
 ![](https://github-contributor-stats.vercel.app/api?username=AndreXP1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AndreXP1&icon=6&color=1)](https://visitcount.itsvg.in)
-
+![Profile Views](https://komarev.com/ghpvc/?username=AndreXP1&color=ff5f6d&style=for-the-badge)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
